@@ -57,3 +57,11 @@ h1:hover a, h2:hover a{
 #endereco:hover a{
     color: darkblue;
 }
+
+#person a{
+    color: white;
+}
+
+#person:hover a{
+    color: darkblue;
+}
